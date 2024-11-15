@@ -1,0 +1,6 @@
+[submodule "vgszero"]
+	path = vgszero
+	url = https://github.com/suzukiplan/vgszero
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
