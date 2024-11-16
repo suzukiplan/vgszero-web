@@ -2,7 +2,7 @@
 
 VGS-Zero のゲームをブラウザ上で動かすことができます。
 
-![preview.png](./preview.png)
+![screenshot.png](./screenshot.png)
 
 ## Recommended Usage
 
