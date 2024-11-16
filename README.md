@@ -61,3 +61,7 @@ Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...
 
 - [./game.pkg](./game.pkg) ファイルをあなたのゲームに差し替えてビルドしてください
 - [./public](./public/) ディレクトリを [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=ja) 等でホスティングすれば、全世界にあなたのゲームを公開できます
+
+## License
+
+[GPLv3](./LICENSE.txt)

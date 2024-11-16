@@ -1,3 +1,7 @@
+/**
+ * VGS-Zero for Web (License under GPLv3)
+ * Copyright (c) 2024, SUZUKI PLAN.
+ */
 #include <pthread.h>
 #include <SDL2/SDL.h>
 #include <emscripten.h>
