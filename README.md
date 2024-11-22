@@ -4,6 +4,8 @@ VGS-Zero のゲームをブラウザ上で動かすことができます。
 
 ![screenshot.png](./screenshot.png)
 
+Check the [demonstration web app (Battle Marine)](https://battle-marine.web.app/).
+
 ## Recommended Usage
 
 - 例えばゲームの体験版を配布する時、ブラウザ版を配布することでユーザにインストールの手間を取らせることなくゲームを遊んでいただくことができます。
