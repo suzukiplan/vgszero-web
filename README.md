@@ -63,6 +63,7 @@ Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...
 
 - [./game.pkg](./game.pkg) ファイルをあなたのゲームに差し替えてビルドしてください
 - [./public](./public/) ディレクトリを [Firebase Hosting](https://firebase.google.com/docs/hosting?hl=ja) 等でホスティングすれば、全世界にあなたのゲームを公開できます
+- [./public](./public/) ディレクトリにビルド後に生成される index.js と index.wasm がゲームの本体コードで [index.html](./public/index.html) にそれらのロード処理  (HTML5) が記述されています。
 
 ## License
 
